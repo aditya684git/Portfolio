@@ -1,0 +1,19 @@
+Assets checklist before deploying
+==================================
+
+1. resume.pdf
+   Place your actual resume at: assets/resume.pdf
+   (Referenced by the "Download Résumé" button and top-nav "Resume" link in index.html)
+
+2. Profile photo (optional)
+   Add a headshot to: assets/images/profile.jpg
+   Then swap the ".hero__blob" placeholder div in index.html for an <img> tag.
+
+3. Project screenshots (optional)
+   assets/images/project-pcdvla.png       (PCD-VLA project card)
+   assets/images/project-accessatlas.png  (Access-Atlas project card)
+   assets/images/project-prepitus.png     (Prepitus project card)
+   Replace the ".project-card__media" placeholder divs in index.html with <img> tags
+   once screenshots are available.
+
+4. favicon.svg is already provided (simple "AC" monogram, accent color).
